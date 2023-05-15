@@ -1,0 +1,32 @@
+<<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mi Blog</title>
+    <link>https://paulavt.github.io/Rss/</link>
+    <description>Descripción de mi blog.</description>
+    <language>es</language>
+    
+    <item>
+      <title>Artículo 1</title>
+      <link>https://paulavt.github.io/Rss/</link>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <pubDate> Lunes, 1 de Mayo, 2023 </pubDate>
+    </item>
+	  
+    <item>
+      <title>Artículo 2</title>
+      <link>https://paulavt.github.io/Rss/</link>
+      <description>Duis massa nibh, bibendum et sem ac, fermentum ultricies risus.</description>
+      <pubDate> Lunes, 8 de Mayo, 2023 </pubDate>
+    </item>
+	  
+    <item>
+      <title>Artículo 3</title>
+      <link>https://paulavt.github.io/Rss/</link>
+      <description>Praesent in tortor ex. Fusce consequat lorem id facilisis pulvinar.</description>
+      <pubDate> Lunes, 15 de Mayo, 2023 </pubDate>
+    </item>
+
+</channel>
+
+</rss>
