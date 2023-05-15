@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
     <title>Mi Blog</title>
     <link>https://paulavt.github.io/Rss/</link>
     <description>Descripción de mi blog.</description>
     <language>es</language>
-    <atom:link href="https://paulavt.github.io/Rss/feed-rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Artículo 1</title>
       <link>https://paulavt.github.io/Rss/</link>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-      <pubDate>Mon, 01 May 2023 </pubDate>
-      <guid>https://paulavt.github.io/Rss/#article1</guid>
+      <pubDate>Mon, 01 May 2023</pubDate>
     </item>
 	  
     <item>
       <title>Artículo 2</title>
       <link>https://paulavt.github.io/Rss/</link>
       <description>Duis massa nibh, bibendum et sem ac, fermentum ultricies risus.</description>
-      <pubDate>Mon, 08 May 2023 </pubDate>
-      <guid>https://paulavt.github.io/Rss/#article2</guid>
+      <pubDate>Mon, 08 May 2023</pubDate>
     </item>
 	  
     <item>
       <title>Artículo 3</title>
       <link>https://paulavt.github.io/Rss/</link>
       <description>Praesent in tortor ex. Fusce consequat lorem id facilisis pulvinar.</description>
-      <pubDate>Mon, 15 May 2023 </pubDate>
-      <guid>https://paulavt.github.io/Rss/#article3</guid>
+      <pubDate>Mon, 15 May 2023</pubDate>
     </item>
+
   </channel>
 </rss>
