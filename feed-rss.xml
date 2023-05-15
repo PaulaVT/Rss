@@ -10,21 +10,18 @@
       <title>Artículo 1</title>
       <link>https://paulavt.github.io/Rss/</link>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-      <pubDate>Mon, 01 May 2023</pubDate>
     </item>
 	  
     <item>
       <title>Artículo 2</title>
       <link>https://paulavt.github.io/Rss/</link>
       <description>Duis massa nibh, bibendum et sem ac, fermentum ultricies risus.</description>
-      <pubDate>Mon, 08 May 2023</pubDate>
     </item>
 	  
     <item>
       <title>Artículo 3</title>
       <link>https://paulavt.github.io/Rss/</link>
       <description>Praesent in tortor ex. Fusce consequat lorem id facilisis pulvinar.</description>
-      <pubDate>Mon, 15 May 2023</pubDate>
     </item>
 
   </channel>
